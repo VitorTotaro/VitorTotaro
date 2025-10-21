@@ -59,5 +59,5 @@ Estas são as ferramentas que mais utilizo nos meus projetos de dados:
 
 ### 📫 Como me encontrar
 
-* **LinkedIn:** [https://www.linkedin.com/in/seu-linkedin/](https://www.linkedin.com/in/seu-linkedin/)
-* **Email:** [seu.email@exemplo.com](mailto:seu.email@exemplo.com)
+* **LinkedIn:** [www.linkedin.com/in/vitor-fialho-9a1979326](www.linkedin.com/in/vitor-fialho-9a1979326)
+* **Email:** [vitor.t.fialho@gmail.com](vitor.t.fialho@gmail.comm)
