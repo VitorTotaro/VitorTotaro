@@ -6,7 +6,7 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou um estudante de Ciência de Dados e In
 
 ### 💡 Sobre Mim
 
-* 🧠 Apaixonado por **Ciência de Dados** e **Machine Learning**, desde a aplicação prática de algoritmos até o entendimento dos conceitos matemáticos por trás deles.
+* 🧠 Me profissionalizando em **Ciência de Dados** e **Machine Learning**, desde a aplicação prática de algoritmos até o entendimento dos conceitos matemáticos por trás deles.
 * 📊 Atualmente explorando técnicas de **mineração de dados** e **modelagem preditiva**.
 
 ---
